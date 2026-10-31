@@ -1,0 +1,11 @@
+PATHWISE ? PROJECT DESCRIPTION
+
+Pathwise is a Flask and SQLite career-guidance platform for students and graduates. It brings career roadmaps, learning resources, online courses, and internship opportunities together so learners can explore a field, follow practical steps, and find useful next actions.
+
+The platform includes student and company/educator accounts. Students can browse and search roadmaps, subscribe to opportunities, receive in-app notifications when a followed listing is updated, and manage their accounts. Companies and educators can publish and maintain internship and course listings. A protected admin dashboard supports roadmap and listing management, account controls, visibility settings, search, and CSV exports.
+
+The website currently includes 24 starter career pathways across software development, data and AI, cybersecurity, cloud and infrastructure, QA, databases, IT support, game development, and related IT fields. Each roadmap presents a guided sequence, skills to build, learning resources, internship search links, and career-specific Google and YouTube searches. External search buttons open results on those providers; they do not import or verify third-party content.
+
+Technology: Python with Flask for the backend, SQLite for persistent data, and responsive HTML/CSS/JavaScript templates for the frontend.
+
+Future improvements may include verified organizations, live external job/course integrations, email or push notifications, account recovery, and production hosting with backups and monitoring.
